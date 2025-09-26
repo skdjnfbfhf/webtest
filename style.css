@@ -1,0 +1,29 @@
+p {
+    font-size: 20px;
+    color:purple;
+}
+
+.container {
+    background-color: darkslategrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.center-King {
+    font-size: 40px;
+    color: #ff2fa8;
+    background-color: lightseagreen;
+    padding: 15px 15px;
+    border: none;
+    cursor: pointer;
+}
+.onepiece{
+    font-size: 160px;
+    color: lightyellow;
+    background-color: black;
+    border: none;
+}
